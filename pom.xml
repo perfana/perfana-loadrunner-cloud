@@ -15,7 +15,7 @@
         <!-- dependency versioning -->
         <gatling.version>3.3.1</gatling.version>
         <perfana-java-client.version>1.4.3</perfana-java-client.version>
-        <test-events-loadrunner-cloud.version>1.0.0-SNAPSHOT</test-events-loadrunner-cloud.version>
+        <test-events-loadrunner-cloud.version>1.0.1-SNAPSHOT</test-events-loadrunner-cloud.version>
         <test-events-wiremock.version>1.1.2</test-events-wiremock.version>
         <events-gatling-maven-plugin.version>3.1.0-events-3</events-gatling-maven-plugin.version>
         <event-scheduler-maven-plugin.version>1.0.0</event-scheduler-maven-plugin.version>
