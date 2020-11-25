@@ -267,7 +267,7 @@
             </activation>
             <properties>
                 <targetBaseUrl>http://afterburner:8080</targetBaseUrl>
-                <testEnvironment>acc</testEnvironment>
+                <testEnvironment>acc-loadrunner</testEnvironment>
             </properties>
         </profile>
 
