@@ -267,7 +267,7 @@
             </activation>
             <properties>
                 <targetBaseUrl>http://afterburner:8080</targetBaseUrl>
-                <testEnvironment>loadrunner-demo</testEnvironment>
+                <testEnvironment>acc</testEnvironment>
             </properties>
         </profile>
 
@@ -302,7 +302,7 @@
                 <activeByDefault>false</activeByDefault>
             </activation>
             <properties>
-                <workload>stressTest</workload>
+                <workload>loadrunner-stress-test</workload>
                 <initialUsersPerSecond>1</initialUsersPerSecond>
                 <targetUsersPerSecond>30</targetUsersPerSecond>
                 <rampupTimeInSeconds>1200</rampupTimeInSeconds>
