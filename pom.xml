@@ -277,7 +277,7 @@
                 <activeByDefault>false</activeByDefault>
             </activation>
             <properties>
-                <testEnvironment>acc</testEnvironment>
+                <testEnvironment>acc-loadrunner</testEnvironment>
             </properties>
         </profile>
 
