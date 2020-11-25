@@ -18,7 +18,7 @@
         <test-events-loadrunner-cloud.version>1.0.1-SNAPSHOT</test-events-loadrunner-cloud.version>
         <test-events-wiremock.version>1.1.2</test-events-wiremock.version>
         <events-gatling-maven-plugin.version>3.1.0-events-3</events-gatling-maven-plugin.version>
-        <event-scheduler-maven-plugin.version>1.0.0</event-scheduler-maven-plugin.version>
+        <event-scheduler-maven-plugin.version>1.0.1-SNAPSHOT</event-scheduler-maven-plugin.version>
 
         <!-- Perfana url  -->
         <perfanaUrl>https://demo.perfana.io</perfanaUrl>
