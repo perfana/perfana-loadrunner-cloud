@@ -267,7 +267,7 @@
             </activation>
             <properties>
                 <targetBaseUrl>http://afterburner:8080</targetBaseUrl>
-                <testEnvironment>acc</testEnvironment>
+                <testEnvironment>loadrunner-demo</testEnvironment>
             </properties>
         </profile>
 
@@ -309,7 +309,7 @@
                 <constantLoadTimeInSeconds>1</constantLoadTimeInSeconds>
                 <perfanaEnabled>true</perfanaEnabled>
                 <testRunId>${systemUnderTest}-${version}-${workload}-${testEnvironment}-${maven.build.timestamp}</testRunId>
-                <tags>stress-test</tags>
+                <tags>loadrunner</tags>
             </properties>
         </profile>
 
